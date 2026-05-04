@@ -172,12 +172,6 @@ streamlit run nid_extractor_app.py
 http://192.168.1.105:8501
 ```
 
-> **Note:** The phone's browser may block camera access on plain `http://`. To get HTTPS (required for camera), use [ngrok](https://ngrok.com):
-> ```bash
-> ngrok http 8501
-> ```
-> Then open the `https://...` URL ngrok provides on your phone.
-
 ---
 
 ## 🔍 Pipeline Details

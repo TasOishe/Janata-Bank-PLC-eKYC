@@ -107,8 +107,8 @@ nid_app/
 ### Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/TasOishe/Janata-Bank-PLC-eKYC.git
+cd Janata-Bank-PLC-eKYC
 ```
 
 ---
